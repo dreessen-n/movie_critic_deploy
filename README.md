@@ -1,11 +1,11 @@
 # Coding Dojo Bootcamp 2022
 flask MySQL - belt review - movie_critic_deploy
 
-> MySQL database built from ERD and implementing CRUD
+> MySQL database built from ERD and implementing CRUD with one-to-many and many-to-many relationships
 >
 > Flask App using OOP and MVC modeularization
 > 
-> Login and registration using form validation and bcrypt to secure passwords
+> Login and registration using RegEx, form validation and bcryption
 > 
 > Bootstrap and custome CSS to style
 
