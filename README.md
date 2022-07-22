@@ -2,7 +2,9 @@
 flask MySQL - belt review - movie_critic_deploy
 
 > Flask App using OOP and MVC modeularization
+> 
 > Login and registration using form validation and bcrypt to secure passwords
+> 
 > MySQL database built from ERD and using CRUD
 
 ## Registration and Login
