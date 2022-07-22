@@ -3,7 +3,7 @@ flask MySQL - belt review - movie_critic_deploy
 
 ## Registration and Login
 
-<img width="400" alt="login_Reg" src="https://user-images.githubusercontent.com/99504059/180506560-05af0e19-4314-4353-b10e-8c7d344f9bd8.png">
+<img width="800" alt="login_Reg" src="https://user-images.githubusercontent.com/99504059/180506560-05af0e19-4314-4353-b10e-8c7d344f9bd8.png">
 
 ## Reviews Dashboard
 
