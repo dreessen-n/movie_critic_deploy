@@ -7,7 +7,7 @@ flask MySQL - belt review - movie_critic_deploy
 
 ## Reviews Dashboard
 
-![dashboard](https://user-images.githubusercontent.com/99504059/180505534-d03230fc-9f85-4495-9169-294e36685fd0.png)
+![dashboard](https://user-images.githubusercontent.com/99504059/180505720-a18d0348-90e7-424f-8496-5f3305bede49.png)
 
 ## Display A Review
 
